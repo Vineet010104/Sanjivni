@@ -1,0 +1,13 @@
+2025-03-27 09:30:56,401 - INFO - Starting application
+2025-03-27 09:30:56,402 - INFO - Starting initial execution
+2025-03-27 09:30:56,404 - DEBUG - Initializing default chat files
+2025-03-27 09:30:56,404 - DEBUG - Initializing C:\Users\ASUS\OneDrive\Desktop\27-03-2025\Frontend\Files\Database.data
+2025-03-27 09:30:56,405 - DEBUG - Initializing C:\Users\ASUS\OneDrive\Desktop\27-03-2025\Frontend\Files\Responses.data with default message
+2025-03-27 09:30:56,407 - DEBUG - Integrating chat log
+2025-03-27 09:30:56,407 - DEBUG - Reading chat log JSON
+2025-03-27 09:30:56,410 - DEBUG - Showing chats on GUI
+2025-03-27 09:30:56,414 - INFO - Initial execution completed successfully
+2025-03-27 09:30:56,414 - INFO - Starting threads
+2025-03-27 09:30:56,415 - INFO - Starting GUI thread
+2025-03-27 09:30:57,432 - INFO - FirstThread started
+2025-03-27 09:34:58,897 - INFO - Cleaning up processes
